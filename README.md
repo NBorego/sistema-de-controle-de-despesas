@@ -39,6 +39,7 @@ Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/javas
    ```
 
 ## Uso
+
 Ao iniciar o sistema, você verá um menu com as seguintes opções:
 
 1. Entrar Despesa
