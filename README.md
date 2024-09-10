@@ -28,7 +28,7 @@ Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/javas
 
 ## Configuração e Execução
 
-1. **Compile o projeto**:
+**Compile o projeto**:
 
    ```bash
    javac .\src\main\Main.java
@@ -41,13 +41,13 @@ Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/javas
 ## Uso
 Ao iniciar o sistema, você verá um menu com as seguintes opções:
 
-1 - Entrar Despesa
-2 - Anotar Pagamento
-3 - Listar Despesas em Aberto no Período
-4 - Listar Despesas Pagas no Período
-5 - Gerenciar Tipos de Despesa
-6 - Gerenciar Usuários
-7 - Sair
+1. Entrar Despesa
+2. Anotar Pagamento
+3. Listar Despesas em Aberto no Período
+4. Listar Despesas Pagas no Período
+5. Gerenciar Tipos de Despesa
+6. Gerenciar Usuários
+7. Sair
 
 Escolha a opção desejada digitando o número correspondente e siga as instruções na tela.
 
