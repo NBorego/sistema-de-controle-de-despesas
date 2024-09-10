@@ -30,13 +30,13 @@ Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/javas
 
 **Compile o projeto**:
 
-   ```bash
-   javac .\src\main\Main.java
-   ```
+```bash
+javac .\src\main\Main.java
+```
 
-    ```bash
-   java .\src\main\Main.java
-   ```
+```bash
+java .\src\main\Main.java
+```
 
 ## Uso
 
